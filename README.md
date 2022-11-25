@@ -9,3 +9,5 @@ Spel id(game id) hittar man i linken av spelet
 Ange bot namn(enter bot prefix) ändrar bottarnas namn
 
 [Windows download](https://github.com/AtackYT/Wordwall-bot/blob/main/spambot.exe)
+
+![bild](https://user-images.githubusercontent.com/87932425/203985085-311120cd-b505-4f95-90cc-0b0ad9b023d4.png)
