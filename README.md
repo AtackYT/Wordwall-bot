@@ -1,3 +1,5 @@
+[Download](https://github.com/AtackYT/Wordwall-bot/releases/)
+
 EN:
 Game types functioning right now are maze and missing words
 Game id can be found in the link of the game
