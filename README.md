@@ -1,5 +1,3 @@
-[Windows download](https://github.com/AtackYT/Wordwall-bot/blob/main/spambot.exe)
-
 EN:
 Game types functioning right now are maze and missing words
 Game id can be found in the link of the game
