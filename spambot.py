@@ -36,6 +36,8 @@ if game == 'maze':
     time.sleep (0.1)
     webbrowser.open('https://wordwall.net/leaderboardajax/addentry?score=999999999&time=999999999&name=' + prefix + '10&mode=1&activityId=' + code + '&templateId=49')
 
+    done = 'true'
+
 elif game == 'missing word':
     webbrowser.open('https://wordwall.net/leaderboardajax/addentry?score=999999999&time=999999999&name=' + prefix + '1&mode=1&activityId=' + code + '&templateId=36')
     time.sleep (0.1)
@@ -57,13 +59,16 @@ elif game == 'missing word':
     time.sleep (0.1)
     webbrowser.open('https://wordwall.net/leaderboardajax/addentry?score=999999999&time=999999999&name=' + prefix + '10&mode=1&activityId=' + code + '&templateId=36')
     time.sleep (0.1)
+    done = 'true'
     
 
 else:
     print('invalid input')
+    done = 'false'
 
 time.sleep (2)
 
-print("done")
+if done == 'true':
+    print("done")
 
 input('Press any key to exit:')
