@@ -7,3 +7,5 @@ SE:
 Spel typer(game types) maze och missing words är de enda som fungerear i boten
 Spel id(game id) hittar man i linken av spelet
 Ange bot namn(enter bot prefix) ändrar bottarnas namn
+
+<a href:https://github.com/AtackYT/Wordwall-bot/blob/main/spambot.exe>windows download<a/>
